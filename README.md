@@ -1,2 +1,2 @@
-# dio-bootcamp-challenges
+# DIO Bootcamp Challenges
 Repository for DIO Bootcamp Challenges
